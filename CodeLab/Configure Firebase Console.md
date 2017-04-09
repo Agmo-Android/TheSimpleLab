@@ -23,7 +23,7 @@ After setup your Firebase in your Android Studio, go to "https://console.firebas
   
     <img src="https://github.com/Agmo-Android/TheSimpleLab/blob/master/ScreenShot/ScreenShot_Firebase_data_update_add_new_row_1.png" width="300">
   
-  - 3, It will create another row for you, from there type your "duration" into your name and value "10000". Same thing for "eventStartTime". At the end result sure look like this. 
+  - 3, It will create another row for you, from there type your "duration" into your name and value "10000". Same thing for "eventStartTime". At the end result should look like this. 
   
     <img src="https://github.com/Agmo-Android/TheSimpleLab/blob/master/ScreenShot/ScreenShot_Firebase_data_update_part1.png" width="350">
 
