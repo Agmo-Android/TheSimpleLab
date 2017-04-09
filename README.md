@@ -1,9 +1,13 @@
 # The Simple App
 
 
-### View 
+### App Example
+Here is a simple look for this App
+
+ <img src="https://github.com/Agmo-Android/TheSimpleLab/blob/master/device-2017-04-09-021442.png" width="220"/>
 
 
+## Some tips 
 ### How to use Millis Second in database for Event
 - Thing you need to know first:
   - 1000 mills second is 1 Second
