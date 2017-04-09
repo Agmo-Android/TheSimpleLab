@@ -1,3 +1,38 @@
+<h1> The Simple App</h1>
+
+<h2> Remain thing</h2>
+
+## View 
+
+
+## How to use Millis Second in database for Event
+- Website to get millis second “https://currentmillis.com”
+- How to use, Copy the millis
+- Add 20,000 into your millis, that mean you increase your millis 20,000, this is for event time use 
+
+## Setup Firebase in Android Studio
+- Go to "Tools" and select Firebase
+- Beside the Firebase window, select Realtime Database and click "Save and retrieve data"
+- After that, Select "Connect to Firebase"
+- Then Select "Add Realtime Database to your app"
+- And DONE, you can use it now !!
+
+## Configure Firebase Console
+After setup your Firebase in your Android Studio, go to "https://console.firebase.google.com",
+1. Select the project you had create in Android Studio
+2. Beside the Navigation bar, select "Database"
+3. Before setup your data, Go to "Rule" tab, to change 
+
+
+
+
+
+
+
+
+
+
+
 #Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
