@@ -22,4 +22,4 @@ After setup your Firebase in your Android Studio, go to "https://console.firebas
   - 3, It will create another row for you, from there type your "duration" into your name and value "10000". Same thing for "eventStartTime". At the end result sure look like this. 
   ![Update data](https://github.com/Agmo-Android/TheSimpleLab/blob/master/ScreenShot/ScreenShot_Firebase_data_update_part1.png)
 
-  - 4, After that click "Add" button. You have finish configura Firebase.
+  - 4, After that click "Add" button. You have finish configuration Firebase.
