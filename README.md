@@ -5,16 +5,16 @@
 
 
 ### How to use Millis Second in database for Event
+- Thing you need to know first:
+  - 1000 mills second is 1 Second
+  - To convert mills into second, you need to divide by 1000
+  - Example : 20000 / 1000 = 20 Seconds
+  - Second is for display use, but in the app is use as Mills second
 - Website to get millis second “https://currentmillis.com”
 - How to use, Copy the millis, show as down below
 
 ![Image of Millis to copy](https://github.com/Agmo-Android/TheSimpleLab/blob/master/ScreenShot/ScreenShot_Millis_to_Copy.png)
 
-- Thing you need to know first:
-  - 1000 mills second is 1 Second
-  - To convert mills into second, you need to divide by 1000
-  - Example : 20000 / 1000 = 20 Seconds
-  - But in Second is for display use, in the app, is use as Mills second
 - If you want to add 20 second after the event start, copy the millis + 20,000, this became your event start time.
 - Pass the result to database under event > eventStartTime
 
