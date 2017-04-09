@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "482097914722",
+    "firebase_url": "https://thesimplelab.firebaseio.com",
+    "project_id": "thesimplelab",
+    "storage_bucket": "thesimplelab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482097914722:android:6c29179f8b611a0b",
+        "android_client_info": {
+          "package_name": "com.agmostudio.thesimplelab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482097914722-mrfr7i7slec3jgt7ltd7br66rf76bd6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agmostudio.thesimplelab",
+            "certificate_hash": "faf76475eea44d8352a966cb5fc820d6309c87d6"
+          }
+        },
+        {
+          "client_id": "482097914722-or3hs7vv5ss0e0vc6g2qoi20i521u7dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwS9Hhq8f9boTN_eThiyd5ROw1vT71KT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482097914722-or3hs7vv5ss0e0vc6g2qoi20i521u7dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
