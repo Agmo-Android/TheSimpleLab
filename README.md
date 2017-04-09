@@ -13,14 +13,11 @@
 
 - Let say, You want to add 20 second after the event start, copy the millis + 20,000, this became your event start time.
 
-## Setup Firebase in Android Studio
-- Go to "Tools" and select Firebase
-- Beside the Firebase window, select Realtime Database and click "Save and retrieve data"
-- After that, Select "Connect to Firebase"
-- Then Select "Add Realtime Database to your app"
-- And DONE, you can use it now !!
+<h3> Setup Firebase in Android Studio </h3>
 
-<h2> Configure Firebase Console </h2>
+To setup Firebase in Android studi, Go to this link [Setup Firebase in Android Studio!](https://github.com/Agmo-Android/TheSimpleLab/blob/master/CodeLab/Setup%20Firebase%20in%20Android%20Studio.md)
+
+<h3> Configure Firebase Console </h3>
 
 After setup firebase complete, start to create your data. Go to this link 
 [Configure Firebase Console!](
